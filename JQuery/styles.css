@@ -1,0 +1,11 @@
+.big-title{
+    font-size: 10rem;
+    color: brown;
+    font-family: cursive;
+}
+
+.align-centre{
+    display: flex;
+    justify-content: center;
+}
+
